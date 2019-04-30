@@ -1,5 +1,11 @@
 # Keras 2.x Projects
 
+
+# Exercise this project 
+## start at 2019.4.30
+## for studying Keras
+
+
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/keras-2x-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789536645 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/9781789536645_cover.png" alt="Keras 2.x Projects" height="256px" align="right"></a>
 
 This is the code repository for [Keras 2.x Projects](https://www.packtpub.com/big-data-and-business-intelligence/keras-2x-projects?utm_source=github&utm_medium=repository&utm_campaign=9781789536645 ), published by Packt.
@@ -17,10 +23,7 @@ Learn about the role of rectified linear units in the Keras network architecture
 Implement a recurrent neural network to classify the sentiment of sentences from movie reviews 
 Set the embedding layer and the tensor sizes of a network 
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789536642) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
